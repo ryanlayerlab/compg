@@ -5,17 +5,17 @@ used to study large-scale DNA sequencing experiments.
 
 ## Spring 2024 Scheudle
 
-| Week | Topic             | Assignment |
-|------|-------------------|------------|
-| 1    | Tech basics       | [1]() |
-| 2    | Genomics basics   | |
-| 3    | String comparison | |
-| 4    | Assembly          | |
-| 5    | Alignment         | |
-| 6    | Intervals         | |
-| 7    | Comparison        | |
-| 8    | Variant Detection | |
-| 9    | Pan genomes       | |
+| Week | Topic              | Assignment |
+|------|--------------------|------------|
+| 1    | Tech basics        | [1](https://github.com/ryanlayerlab/compg/blob/main/assignments/Assignment%201_%20Searching.pdf) |
+| 2    | Genomics basics    | |
+| 3    | String comparison  | |
+| 5    | Assembly           | |
+| 7    | Alignment          | |
+| 9    | Intervals          | |
+| 12    | Comparison        | |
+| 14    | Variant Detection | |
+| 16    | Pan genomes       | |
 ## Background Information (Software Egnineering for Scientist)
 
 - [Command line](https://github.com/swe4s/lectures/blob/master/doc/Command%20Line.pdf)
