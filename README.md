@@ -24,4 +24,3 @@ used to study large-scale DNA sequencing experiments.
   - [SSH keys](https://github.com/swe4s/lectures/blob/master/doc/Using%20SSH%20Keys%20with%20GitHub.pdf) 
 - [Python](https://github.com/swe4s/lectures/blob/master/doc/Python%20Refresher.pdf)
   - [Best practices](https://github.com/swe4s/lectures/blob/master/doc/Best%20Practices.pdf)
-
