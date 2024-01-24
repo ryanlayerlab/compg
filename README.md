@@ -8,7 +8,7 @@ used to study large-scale DNA sequencing experiments.
 | Week | Topic              | Assignment |
 |------|--------------------|------------|
 | 1    | Tech basics        | [1](https://github.com/ryanlayerlab/compg/blob/main/assignments/Assignment%201_%20Searching.pdf) |
-| 2    | Genomics basics    | |
+| 2    | Genomics basics    | [2](https://github.com/ryanlayerlab/compg/blob/main/assignments/Assignment%202_%20Handling%20Reverse%20Complement.pdf) [3](https://github.com/ryanlayerlab/compg/blob/main/assignments/Assignment%203_%20Drift.pdf)|
 | 3    | String comparison  | |
 | 5    | Assembly           | |
 | 7    | Alignment          | |
