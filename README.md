@@ -18,9 +18,9 @@ used to study large-scale DNA sequencing experiments.
 | 16    | Pan genomes       | ||
 ## Background Information (Software Egnineering for Scientist)
 
-- [Command line](https://github.com/swe4s/lectures/blob/master/doc/Command%20Line.pdf)
-- [Bash Scripting](https://github.com/swe4s/lectures/blob/master/doc/Shell%20Scripts.pdf)
-- [Git](https://github.com/swe4s/lectures/blob/master/doc/Version%20Control%2C%20Git%2C%20and%20GitHub.pdf)
-  - [SSH keys](https://github.com/swe4s/lectures/blob/master/doc/Using%20SSH%20Keys%20with%20GitHub.pdf) 
-- [Python](https://github.com/swe4s/lectures/blob/master/doc/Python%20Refresher.pdf)
-  - [Best practices](https://github.com/swe4s/lectures/blob/master/doc/Best%20Practices.pdf)
+- [Command line](https://github.com/swe4s/lectures/blob/main/course-material/command-line-notes.pdf)
+- [Bash Scripting](https://github.com/swe4s/lectures/blob/main/course-material/shell-scripts-notes.pdf)
+- [Git](https://github.com/swe4s/lectures/blob/main/course-material/version-control-git-github.pdf)
+  - [SSH keys](https://github.com/swe4s/lectures/blob/main/course-material/authenticating-with-github.pdf) 
+- [Python](https://github.com/swe4s/lectures/blob/main/course-material/python-refresher.pdf)
+  - [Best practices](https://github.com/swe4s/lectures/blob/main/course-material/best-practices.pdf)
